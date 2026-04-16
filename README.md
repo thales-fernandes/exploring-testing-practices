@@ -39,8 +39,12 @@ Com base nos dados obtidos, selecione uma prática ou dado de teste relevante e 
 
 **1. Repositório selecionado:** `https://github.com/pallets/flask`
 
-**2. Explicação:** Eu escolhi focar na prática de **Manutenção e Evolução Contínua de Testes**. 
+**2. Explicação:** Eu escolhi focar na Manutenção e Evolução Contínua de Testes.
+
 ![Gráfico de evolução dos testes no repositório do Flask](historico-flask.png)
-Analisandoa imagem acima do painel Test History do repositório do Flask, é possível ver como a cultura de testes da equipe evoluiu junto com o código de produção.
-Nas versões iniciais (0.3.1), o projeto contava com poucos testes. Quando o framework ganhou popularidade e novas funcionalidades foram adicionadas, o número de casos de teste cresceu de forma exponencial até a versão 2.0.1. A partir das versões 2.2 e 3.1, a curva do gráfico da uma estabilizada. Essa prática demonstra um ciclo de vida típico de engenharia de software: a equipe garantiu uma cobertura bem completa durante as fases de maior desenvolvimento e agora mantém essa base sólida de testes de regressão para garantir que as atualizações não quebrem o sistema.
+
+Analisando a imagem acima do painel Test History do repositório do Flask, é possível ver como a cultura de testes da equipe evoluiu junto com o código de produção.
+Nas versões iniciais (0.3.1), o projeto contava com poucos testes. Quando o framework ganhou popularidade e novas funcionalidades foram adicionadas, o número de casos de teste cresceu de forma exponencial até a versão 2.0.1. 
+A partir das versões 2.2 e 3.1, a curva do gráfico da uma estabilizada. 
+Essa prática demonstra um ciclo de vida típico de engenharia de software, garantindo uma cobertura bem completa durante as fases de maior desenvolvimento e agora mantém essa base sólida de testes de regressão para garantir que as atualizações não quebrem o sistema.
 
